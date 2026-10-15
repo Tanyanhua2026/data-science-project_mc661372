@@ -21,6 +21,4 @@ EDA shows that certain event types strongly correlate with the target outcome. F
 One limitation: The dataset is from a single sample period. The trained model may not generalise well to event logs collected under different time periods or different user groups.
 
 ## 5. Instructions for running the analysis
-1. Clone this repository to your local machine:
-```bash
-git clone https://github.com/Tanyanhua2026/data-science-project.git
+https://github.com/Tanyanhua2026/data-science-project_mc661372/edit/main/README.md
